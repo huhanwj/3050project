@@ -1,4 +1,4 @@
-Temp = table2array(RawDataProcess1);
+Temp = table2array(RawDataProcess); %Specified with data of "COG" entry in the corresponding Excel sheet
 COG = zeros(1,328);
 sum1 = 0;
 sum2 = 0;

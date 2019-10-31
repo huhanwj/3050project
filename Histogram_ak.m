@@ -1,4 +1,4 @@
-Temp = table2array(RawDataProcess1);
+Temp = table2array(RawDataProcess);% Specified with data of "Average Acceleration Over Two Time Gaps" entry in the corresponding Excel sheet
 Acce = zeros(1,326);
 sum2 = zeros(1,1);
 num2 = zeros(1,1);
